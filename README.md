@@ -1,6 +1,6 @@
 # talks
 
-Conference talks, presentations, and technical decks by Ryan MacDonald ([rfxn.com](https://rfxn.com)).
+Conference talks, presentations, and technical decks by Ryan MacDonald ([rfxn.com](https://rfxn.com)). Related research on building in the open and threat response at [rfxn.com/research](https://rfxn.com/research).
 
 ## Decks
 
@@ -17,10 +17,6 @@ Each deck is a self-contained HTML file. Download and open in any browser, or us
 Arrow keys, click, or swipe to navigate. Light/dark mode toggle in the top-right corner.
 
 For best results, zoom the browser to 125-150% (`Ctrl +` on Linux/Windows, `Cmd +` on Mac) to fill the screen — this effectively enters "presentation mode" without needing any browser extensions.
-
-## Research
-
-Related research on building in the open and threat response is available at [rfxn.com/research](https://rfxn.com/research).
 
 ## License
 
