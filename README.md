@@ -18,6 +18,10 @@ Arrow keys, click, or swipe to navigate. Light/dark mode toggle in the top-right
 
 For best results, zoom the browser to 125-150% (`Ctrl +` on Linux/Windows, `Cmd +` on Mac) to fill the screen — this effectively enters "presentation mode" without needing any browser extensions.
 
+## Research
+
+Related research on building in the open and threat response is available at [rfxn.com/research](https://rfxn.com/research).
+
 ## License
 
 Content is published for educational and reference purposes.
