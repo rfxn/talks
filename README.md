@@ -17,6 +17,8 @@ Each deck is a self-contained HTML file. Download and open in any browser, or us
 
 Arrow keys, click, or swipe to navigate. Light/dark mode toggle in the top-right corner.
 
+For best results, zoom the browser to 125-150% (`Ctrl +` on Linux/Windows, `Cmd +` on Mac) to fill the screen — this effectively enters "presentation mode" without needing any browser extensions.
+
 ## License
 
 Content is published for educational and reference purposes.
