@@ -1,6 +1,6 @@
 # talks
 
-Conference talks, presentations, and technical decks by [R-fx Networks](https://rfxn.com).
+Conference talks, presentations, and technical decks by Ryan MacDonald ([rfxn.com](https://rfxn.com)).
 
 ## Decks
 
