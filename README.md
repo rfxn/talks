@@ -6,7 +6,8 @@ Conference talks, presentations, and technical decks by Ryan MacDonald ([rfxn.co
 
 | Date | Title | Slides |
 |------|-------|--------|
-| 2026-04-03 | [Prompts to Pipelines](2026-04-03_prompts-to-pipelines/prompts-to-pipelines.html) — Best practices for Claude Code & agentic development (v1.5) | 40 |
+| 2026-04-21 | [Prompts to Pipelines (v2)](2026-04-21_prompts-to-pipelines-v2/prompts-to-pipelines.html) — Best practices for Claude Code & agentic development | 40 |
+| 2026-04-03 | [Prompts to Pipelines (v1)](2026-04-03_prompts-to-pipelines-v1/prompts-to-pipelines.html) — Best practices for Claude Code & agentic development | 41 |
 | 2026-04-02 | [LMD 2.x Deep Dive](2026-04-02_lmd-2x-deep-dive/lmd-2x-deep-dive.html) — Linux Malware Detect internals, sigforge, and operations | 37 |
 | 2026-03-25 | [sigforge Deep Dive](2026-03-25_sigforge-deep-dive/sigforge-deep-dive.html) — Signature generation pipeline for LMD 2.x | 22 |
 
