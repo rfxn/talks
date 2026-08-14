@@ -10,6 +10,7 @@ Conference talks, presentations, and technical decks by Ryan MacDonald ([rfxn.co
 | 2026-04-03 | [Prompts to Pipelines (v1)](2026-04-03_prompts-to-pipelines-v1/prompts-to-pipelines.html) — Best practices for Claude Code & agentic development | 41 |
 | 2026-04-02 | [LMD 2.x Deep Dive](2026-04-02_lmd-2x-deep-dive/lmd-2x-deep-dive.html) — Linux Malware Detect internals, sigforge, and operations | 37 |
 | 2026-03-25 | [sigforge Deep Dive](2026-03-25_sigforge-deep-dive/sigforge-deep-dive.html) — Signature generation pipeline for LMD 2.x | 22 |
+| 2026-03-25 | [rfxn Ecosystem Overview](2026-03-25_rfxn-ecosystem-overview/rfxn-ecosystem-overview.html) — 16 projects, two decades of Linux security, AI-native governance | 15 |
 
 ## Viewing
 
