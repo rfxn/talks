@@ -6,7 +6,7 @@ Conference talks, presentations, and technical decks by Ryan MacDonald ([rfxn.co
 
 | Date | Title | Slides |
 |------|-------|--------|
-| 2026-08-17 | [Prompts to Pipelines (v3)](2026-08-17_prompts-to-pipelines-v3/prompts-to-pipelines.html) — Best practices for Claude Code & agentic development, rebuilt for the Claude 5 era | 47 |
+| 2026-08-17 | [Prompts to Pipelines (v3)](2026-08-17_prompts-to-pipelines-v3/prompts-to-pipelines.html) — Prompt engineering standards, harness engineering, and the RDF evolution; the foundational rework | 32 |
 | 2026-04-21 | [Prompts to Pipelines (v2)](2026-04-21_prompts-to-pipelines-v2/prompts-to-pipelines.html) — Best practices for Claude Code & agentic development | 40 |
 | 2026-04-03 | [Prompts to Pipelines (v1)](2026-04-03_prompts-to-pipelines-v1/prompts-to-pipelines.html) — Best practices for Claude Code & agentic development | 41 |
 | 2026-04-02 | [LMD 2.x Deep Dive](2026-04-02_lmd-2x-deep-dive/lmd-2x-deep-dive.html) — Linux Malware Detect internals, sigforge, and operations | 37 |
